@@ -1,5 +1,6 @@
 # mycode (Project Title)
 
+Wanting to learn versioon control with git
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
